@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\bin\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.exe
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\bin\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.deps.json
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\bin\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.runtimeconfig.json
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\bin\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\bin\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.dll
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\bin\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.pdb
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\obj\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\obj\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\obj\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\obj\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.dll
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\obj\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.pdb
+C:\Users\Kiril\source\repos\02_Lab\Task11_Refactor_Volume_of_Pyramid\obj\Debug\netcoreapp3.1\Task11_Refactor_Volume_of_Pyramid.genruntimeconfig.cache
