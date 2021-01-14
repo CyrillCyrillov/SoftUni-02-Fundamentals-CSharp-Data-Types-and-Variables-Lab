@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\bin\Debug\netcoreapp3.1\Task07_Concat_Names.exe
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\bin\Debug\netcoreapp3.1\Task07_Concat_Names.deps.json
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\bin\Debug\netcoreapp3.1\Task07_Concat_Names.runtimeconfig.json
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\bin\Debug\netcoreapp3.1\Task07_Concat_Names.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\bin\Debug\netcoreapp3.1\Task07_Concat_Names.dll
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\bin\Debug\netcoreapp3.1\Task07_Concat_Names.pdb
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\obj\Debug\netcoreapp3.1\Task07_Concat_Names.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\obj\Debug\netcoreapp3.1\Task07_Concat_Names.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\obj\Debug\netcoreapp3.1\Task07_Concat_Names.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\obj\Debug\netcoreapp3.1\Task07_Concat_Names.dll
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\obj\Debug\netcoreapp3.1\Task07_Concat_Names.pdb
+C:\Users\Kiril\source\repos\02_Lab\Task07_Concat_Names\obj\Debug\netcoreapp3.1\Task07_Concat_Names.genruntimeconfig.cache
