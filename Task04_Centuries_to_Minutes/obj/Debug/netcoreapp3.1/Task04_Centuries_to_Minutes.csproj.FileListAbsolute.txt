@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\bin\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.exe
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\bin\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.deps.json
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\bin\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.runtimeconfig.json
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\bin\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\bin\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.dll
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\bin\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.pdb
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\obj\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\obj\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\obj\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\obj\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\obj\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.dll
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\obj\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.pdb
+C:\Users\Kiril\source\repos\02_Lab\Task04_Centuries_to_Minutes\obj\Debug\netcoreapp3.1\Task04_Centuries_to_Minutes.genruntimeconfig.cache
