@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\obj\Debug\netcoreapp3.1\Task10_Lower_or_Upper.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\obj\Debug\netcoreapp3.1\Task10_Lower_or_Upper.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\obj\Debug\netcoreapp3.1\Task10_Lower_or_Upper.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\bin\Debug\netcoreapp3.1\Task10_Lower_or_Upper.exe
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\bin\Debug\netcoreapp3.1\Task10_Lower_or_Upper.deps.json
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\bin\Debug\netcoreapp3.1\Task10_Lower_or_Upper.runtimeconfig.json
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\bin\Debug\netcoreapp3.1\Task10_Lower_or_Upper.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\bin\Debug\netcoreapp3.1\Task10_Lower_or_Upper.dll
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\bin\Debug\netcoreapp3.1\Task10_Lower_or_Upper.pdb
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\obj\Debug\netcoreapp3.1\Task10_Lower_or_Upper.dll
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\obj\Debug\netcoreapp3.1\Task10_Lower_or_Upper.pdb
+C:\Users\Kiril\source\repos\02_Lab\Task10_Lower_or_Upper\obj\Debug\netcoreapp3.1\Task10_Lower_or_Upper.genruntimeconfig.cache
